@@ -1,0 +1,46 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.15.3" last-modified="1557517988000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="8.10.0" last-modified="1539778904000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="199-22-3-255" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="theme.xml" />
+    <property name="InstalledPluginsSearchHistory" value="glass" />
+    <property name="KEYMAP" value="close&#10;close tab&#10;reopen" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="2" />
+    <property name="SettingsSearchHistory" value="template&#10;codeglance&#10;height&#10;Show parameter name hints&#10;inline parameter hints" />
+    <property name="TrendingPluginsSearchHistory" value="transp&#10;codeglance&#10;transpar&#10;magento&#10;Remote Call Plugin" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="115" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="300" />
+    <property name="evlsprt3.191" value="16" />
+    <property name="file.chooser.recent.files" value="/var/www/mauricio/study04&#10;/var/www/redstage/m2/reddingmedical&#10;/var/www/redstage/m2/cupidintimates&#10;/var/www/redstage/m2/bestvaluecopy&#10;/var/www/mauricio/study01&#10;/var/www/mauricio/study02&#10;/var/www/mauricio/study03&#10;/var/www/mauricio/m23&#10;/var/www/mauricio/docker-magento2.3&#10;/var/www/redstage/m2/trainworld&#10;/home/mauriciopazp/Documentos/vpn/pfSense-UDP4-1194-mpaz/pfSense-UDP4-1194-mpaz.p12&#10;/home/mauriciopazp/Documentos/vpn/pfSense-UDP4-1194-mpaz/pfSense-UDP4-1194-mpaz-tls.key&#10;/home/mauriciopazp/Documentos/vpn/pfSense-UDP4-1194-mpaz/pfSense-UDP4-1194-mpaz.ovpn&#10;/var/www/redstage/m2/sbsbattery&#10;/var/www/redstage/m2/trainworld/src/src/vendor/bin/cache-clean.js&#10;/var/www/redstage/m2/reddingmedical/src" />
+    <property name="file.gist.reindex.count" value="1957212" />
+    <property name="fileTypeChangedCounter" value="62" />
+    <property name="find.popup.splitter" value="0.58635706" />
+    <property name="lastTip" value="72" />
+    <property name="log.file.format.editor.notification.disabled" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="param.hints.settings.last.edited.language" value="JavaScript" />
+    <property name="selected.color.option.type" value="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.38194445" />
+  </component>
+</application>

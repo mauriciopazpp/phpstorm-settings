@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="create-default-user" type="PLAIN_TEXT" />
+      <mapping pattern="clean" type="PLAIN_TEXT" />
+      <mapping pattern="clean-grunt" type="PLAIN_TEXT" />
+      <mapping pattern="mage2tv_example_index_index" type="XML" />
+    </extensionMap>
+  </component>
+</application>
